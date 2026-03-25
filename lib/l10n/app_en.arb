@@ -1,0 +1,61 @@
+{
+  "@@locale": "en",
+  "appTitle": "Flutter Java Channel",
+  "homeTitle": "Home",
+  "goToAssignment1": "Go To Assignment 1",
+  "goToAssignment2": "Go To Assignment 2",
+  "assignment1Title": "Assignment 1",
+  "fetchApi": "Fetch Api",
+  "noResponseReceived": "No response received.",
+  "fetchError": "Fetch error: {message}",
+  "@fetchError": {
+    "placeholders": {
+      "message": {}
+    }
+  },
+  "assignment2Title": "Assignment 2",
+  "noActiveQuestion": "No active question.",
+  "eventError": "Event error: {error}",
+  "@eventError": {
+    "placeholders": {
+      "error": {}
+    }
+  },
+  "questionScheduled": "Question scheduled.",
+  "scheduleError": "Schedule error: {message}",
+  "@scheduleError": {
+    "placeholders": {
+      "message": {}
+    }
+  },
+  "answerSubmitted": "Answer submitted.",
+  "submitError": "Submit error: {message}",
+  "@submitError": {
+    "placeholders": {
+      "message": {}
+    }
+  },
+  "questionWasAsked": "A question was asked.",
+  "pleaseAnswerInSeconds": "Please answer in {seconds} seconds.",
+  "@pleaseAnswerInSeconds": {
+    "placeholders": {
+      "seconds": {}
+    }
+  },
+  "timeoutAnswer": "Timeout. Final answer: {answer}",
+  "@timeoutAnswer": {
+    "placeholders": {
+      "answer": {}
+    }
+  },
+  "questionClosedAnswer": "Question closed. Final answer: {answer}",
+  "@questionClosedAnswer": {
+    "placeholders": {
+      "answer": {}
+    }
+  },
+  "scheduleYesNoQuestion": "Schedule YES/NO Question",
+  "questionWillAppearHere": "Question will appear here.",
+  "yes": "YES",
+  "no": "NO"
+}

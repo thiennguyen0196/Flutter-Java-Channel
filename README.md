@@ -17,8 +17,14 @@ This app demonstrates communication between Flutter and Android native Java usin
 flutter pub get
 ```
 
-3. Start an Android emulator (or connect a device).
-4. Run the app:
+3. Generate localization language files
+
+```bash
+flutter gen-l10n
+```
+
+4. Start an Android emulator (or connect a device).
+5. Run the app:
 
 ```bash
 flutter run
