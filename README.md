@@ -70,3 +70,8 @@ The app has two main parts:
   - Flutter requests a scheduled question via method call.
   - Java plugin emits question lifecycle updates over `EventChannel`.
   - Flutter listens to events and sends user answers back through `MethodChannel`.
+
+### Screen recorder
+
+https://github.com/user-attachments/assets/b1d4b959-7eac-4866-9eb2-79ee8aeb3d43
+
